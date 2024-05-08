@@ -22,7 +22,7 @@ import java.util.Objects;
 
 import Models.Payroll;
 
-public class UIUtils {
+public class UIUtils extends SystemUpc {
     /**
      * Este es el constructor de clase, cuando se instancia un objeto de esta clase
      * se llama a esto

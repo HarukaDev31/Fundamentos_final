@@ -61,6 +61,10 @@ public class SystemUpc {
         this.utils = new UIUtils(this.empJsonUrl, this.configSettings);
         initSystem();
     }
+
+    public SystemUpc() {
+    }
+
     /**
      * Este metodo se encarga de inicializar la GUI y sus componentes
      * Ademas de inicializar los eventos de los componentes
