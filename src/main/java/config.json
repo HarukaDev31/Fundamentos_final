@@ -1,0 +1,81 @@
+{
+  "uit": 5150.00,
+  "segments": [
+    {
+      "id": 1,
+      "name": "Segment 1",
+      "inf": 0,
+      "sup": 5,
+      "ret": 0.08
+    },
+    {
+        "id": 2,
+      "name": "Segment 2",
+      "inf": 5,
+      "sup": 20,
+      "ret": 0.14
+    },
+    {
+        "id": 3,
+      "name": "Segment 3",
+      "inf": 20,
+      "sup": 35,
+      "ret": 0.17
+    },
+    {
+        "id": 4,
+      "name": "Segment 4",
+      "inf": 35,
+      "sup": 45,
+      "ret": 0.2
+    },
+    {
+        "id": 5,
+      "name": "Segment 5",
+      "inf": 45,
+      "sup": 999999,
+      "ret": 0.3
+    }
+  ],
+  "affiliations": [
+    {
+      "id": 1,
+      "name":"ONP",
+      "capture": 0.13,
+      "flow": 0
+    },
+    {
+      "id": 2,
+      "name":"AFP HABITAT",
+      "capture": 0.10,
+      "flow": 1.47
+    },
+    {
+      "id": 3,
+      "name":"AFP INTEGRA",
+      "capture": 0.10,
+      "flow": 1.55
+    },
+    {
+      "id": 4,
+      "name":"AFP PRIMA",
+      "capture": 0.10,
+      "flow": 1.60
+    },
+    {
+      "id": 5,
+      "name":"AFP PROFUTURO",
+      "capture": 0.10,
+      "flow": 1.69
+    }
+  ],
+  "essalud": 0.09,
+  "gratificationMonths": [
+    7,
+    12
+  ],
+  "ctsMonths": [
+    4,
+    10
+  ]
+}

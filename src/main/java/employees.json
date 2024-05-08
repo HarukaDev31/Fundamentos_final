@@ -1,0 +1,34 @@
+[
+  {
+    "empLastName": "Torres",
+    "empCode": "FrTo0001",
+    "empName": "Francis ",
+    "empSalary": "3000.0",
+    "empRole": "Software Engineer",
+    "empAffiliation": 2,
+    "dateStart": "2024-04-01",
+    "empEmail": "harukakasugano32@gmail.com"
+  },
+  {
+    "empLastName": "Flores",
+    "empCode": "JoFl0002",
+    "empName": "Johanna",
+    "empSalary": "2000.0",
+    "empRole": "Graphic Designer",
+    "empAffiliation":3,
+    "dateStart": "2021-05-01",
+    "empEmail": "harukakasugano32@gmail.com"
+
+  },
+  {
+    "empLastName": "Alvares",
+    "empCode": "ViAl0003",
+    "empName": "Victor ",
+    "empSalary": "2500.0",
+    "empRole": "Product Manager",
+    "empAffiliation": 1,
+    "dateStart": "2024-07-01",
+    "empEmail": "harukakasugano32@gmail.com"
+
+  }
+]
